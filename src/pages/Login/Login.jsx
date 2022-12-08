@@ -73,7 +73,7 @@ const NextRegister = () => {
               margin: 2,
             }}
           />
-          <Text>GOOGLE</Text>
+          <Text>Google</Text>
         </TouchableOpacity>
         <TouchableOpacity
           style={{
@@ -97,7 +97,7 @@ const NextRegister = () => {
               margin: 2,
             }}
           />
-          <Text>IOS</Text>
+          <Text style={{top: 2, right: 5}}>Apple</Text>
         </TouchableOpacity>
       </View>
 
